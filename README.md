@@ -1,5 +1,5 @@
 # MTest 
-Help novice learners to learn and perform scale development and evaluation. 
+Help people learn and perform scale development and evaluation. 
 
 MTest was developed in R programming language. Confirmatory factor analysis is one of the common methods to evaluate the reliability and validity of a measuring instrument. Hence, package Lavaan and semPlot were used to proceed with factor analysis in MTest. 
 
