@@ -1,8 +1,4 @@
 setwd('D:/teamwork/EasyCFA/pilotTestV5')
-#setwd('C:/Users/Zhang/Desktop/BEIJING/app_SEMrun')
-# 目前的问题：其他的图形还没有更新最新的模式
-#  latest version: 只有删除的，没有其他???
-#  目前的问题：信度的有点丑
 
 library(DT)
 library(shiny)
